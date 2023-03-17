@@ -12,7 +12,6 @@
 
 from random import randint
 day = int(input("Введите количество дней - "))
-
 count = 0
 count_day = 0
 warm_days = 0
