@@ -1,7 +1,6 @@
-x = 5
-y = 10
-
-print(y > x * x or y >= 2 * x and x < y)
-
-
-
+i = 0
+while i <= 10:
+    i = i + 1
+    if i > 7:
+        i = i + 2
+print(i)        
